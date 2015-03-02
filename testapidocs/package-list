@@ -1,0 +1,9 @@
+edu.berkeley.cs.succinct
+edu.berkeley.cs.succinct.bitmap
+edu.berkeley.cs.succinct.dictionary
+edu.berkeley.cs.succinct.qsufsort
+edu.berkeley.cs.succinct.regex.executor
+edu.berkeley.cs.succinct.regex.parser
+edu.berkeley.cs.succinct.regex.planner
+edu.berkeley.cs.succinct.util
+edu.berkeley.cs.succinct.wavelettree
